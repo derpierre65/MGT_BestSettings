@@ -1,0 +1,14 @@
+﻿# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+*.csproj
